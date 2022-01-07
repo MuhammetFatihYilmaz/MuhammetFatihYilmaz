@@ -1,11 +1,9 @@
-### Hi there 👋
-
-
+### Hi there 👋, I'm Muhammet Fatih Yılmaz
 
 - 🔭 I’m currently working on .Net
 - 🌱 I’m currently learning Unity 3D, .Net 
 - 💬 Ask me about Unity Dev.
-- 😄  Read more about my projects at: [Google Play](https://play.google.com/store/apps/developer?id=Muhammet+Fatih+Y%C4%B1lmaz) and [itch.io](https://cansix1.itch.io/)
+- :desktop_computer: Read more about my projects at: [Google Play](https://play.google.com/store/apps/developer?id=Muhammet+Fatih+Y%C4%B1lmaz) and [itch.io](https://cansix1.itch.io/)
 
 
 
@@ -18,5 +16,6 @@
 
 ![Unity](https://img.shields.io/badge/Unity%20-black?logo=unity) ![](https://img.shields.io/badge/%20-blueviolet?logo=csharp) ![](https://img.shields.io/badge/%20-informational?logo=.net) ![Unity](https://img.shields.io/badge/Marmoset%20Hexels_3-red?logo=marmosethexels)
 
+<img src="https://s10.gifyu.com/images/KumandaGif.gif" width="256">
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=MuhammetFatihYilmaz&show_icons=true&theme=radical)
