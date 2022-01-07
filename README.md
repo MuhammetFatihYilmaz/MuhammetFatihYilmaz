@@ -14,7 +14,7 @@
 
 ***Tools:***
 
-![Unity](https://img.shields.io/badge/Unity%20-black?logo=unity) ![](https://img.shields.io/badge/%20-blueviolet?logo=csharp) ![](https://img.shields.io/badge/%20-informational?logo=.net) ![Unity](https://img.shields.io/badge/Marmoset%20Hexels_3-red?logo=marmosethexels)
+![Unity](https://img.shields.io/badge/Unity%20-black?logo=unity) ![](https://img.shields.io/badge/%20-blueviolet?logo=csharp) ![](https://img.shields.io/badge/%20-informational?logo=.net) ![](https://img.shields.io/badge/Marmoset%20Hexels_3-red?logo=marmosethexels) ![Git](https://img.shields.io/badge/Git%20-gray?logo=git)
 
 <img src="https://s10.gifyu.com/images/KumandaGif.gif" width="256">
 
