@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Muhammet Fatih Yılmaz
 
-- 🔭 I’m currently working on .Net
+- 🔭 I’m currently working on Unity 3D
 - 🌱 I’m currently learning Unity 3D, .Net 
 - 💬 Ask me about Unity Dev.
 - :desktop_computer: Read more about my projects at: [Google Play](https://play.google.com/store/apps/developer?id=Muhammet+Fatih+Y%C4%B1lmaz) and [itch.io](https://cansix1.itch.io/)
