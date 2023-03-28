@@ -11,6 +11,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-quare&labelColor=blue&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/muhammetfatihyilmaz/) 
 [![Hackerrank Badge](https://img.shields.io/badge/-HackerRank-green?style=flat-quare&labelColor=green&logo=Hackerrank&logoColor=white&link=link)](https://www.hackerrank.com/muhammet_yilmaz1) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat-quare&labelColor=black&logo=medium&logoColor=white&link=link)](https://medium.com/@muhammet.yilmaz.1995) 
+
 
 ***Tools:***
 
